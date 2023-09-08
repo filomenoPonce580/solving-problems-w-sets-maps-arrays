@@ -18,9 +18,13 @@ Write your solution in the file named src/anagram.js.
 Given a list of words, group the words into anagram groups. That is, place all words in the list that are anagrams of each other into a group.
 
 For example, if the input was :
+
 `['east', 'cars', 'acre', 'arcs', 'teas', 'eats', 'race']` 
+
 the output should be: 
+
 `[['east', 'teas', 'eats'], ['cars', 'arcs'], ['acre', 'race']]`
+
 
 Write your solution to this problem in the file named src/anagramGroups.js.
 
